@@ -1,5 +1,5 @@
 # Shotokan
-This repository serves as an initial collaborative knowledge base for the Shotokan style for [bassai-dai.com](www.bassai-dai.com).
+This repository serves as an initial collaborative knowledge base for the Shotokan style for [bassai-dai.com](http://www.bassai-dai.com).
 
 ## Guidelines for contributing:
 * The format of the `.kata` and `.style` files(see below) may seem a bit odd. This is to ensure that the web-service can read the files easily consistently with the other bassai-dai.com repositories. Please do not alter this format.
