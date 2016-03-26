@@ -45,7 +45,7 @@ This repository serves as an initial collaborative knowledge base for the Shotok
     }
 
     origin = {
-      """"
+      """
       Details of the origin of the style goes here,
       including the founder.
       """
