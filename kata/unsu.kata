@@ -1,15 +1,30 @@
 name = {
  [
   "unsu",
+  "unshu",
+  "unsū",
+  "unshū",
+  "雲手",
+  "ウンス",
+  "ウンシュ",
+  "ウンスー",
+  "うんシュー",
  ]
 }
 
 info = {
-  ""
+  """
+  The shotokan version of the Unsu kata is perhaps the most athletically demanding kata, at least in modern WKF competitions.
+  It has many difficult and rapid movements, and stances and techniques not usually practiced in Shotokan, e.g. the cat-stances in the
+  beginning of the kata, and the 360 jump near the end of the kata.
+  """
 }
 
 links = {
   [
-    "",
+    "https://www.youtube.com/watch?v=tsu4pM_a-Ts",
+    "https://www.youtube.com/watch?v=X-Dq32yOvSY",
+    "https://youtu.be/vCIF5sHGzeA",
+    "https://en.wikipedia.org/wiki/Uns%C5%AB"
   ]
 }
