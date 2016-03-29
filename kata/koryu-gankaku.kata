@@ -1,6 +1,7 @@
 name = {
  [
   "koryu gankaku",
+  "gankaku sho"
  ]
 }
 
@@ -10,6 +11,6 @@ info = {
 
 links = {
   [
-    "",
+    "https://www.youtube.com/watch?v=49w6iAkVTG4",
   ]
 }
