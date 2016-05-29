@@ -1,11 +1,17 @@
 name = {
  [
   "empi",
+  "燕飛",
  ]
 }
 
 info = {
-  ""
+  """
+  A common competition kata, empi is a relatively advanced shotokan kata.
+  Empi is often translated to "flying swallow" which can be seen in the dynamic nature of this kata.
+  This is one of the first shotokan katas to incorporate a jumping rotation, with the others being Unsu and Kankodai.
+  A key focus should be on sharp, snapping motions with strong hips.
+  """
 }
 
 links = {
